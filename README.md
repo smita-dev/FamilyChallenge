@@ -2,11 +2,11 @@
 ***
 This document is for explaining how to execute this application.
 
-## HOw to execute :
-Type NPM start input_file_path
+## How to execute :
+####Type NPM start input_file_path
 
-input_file_path is absolute path for input text file which contains following commands:
-### ADD_CHILD
-### GET_RELATIONSHIP
+####input_file_path is absolute path for input text file which contains following commands:
+ADD_CHILD
+GET_RELATIONSHIP
 
 
